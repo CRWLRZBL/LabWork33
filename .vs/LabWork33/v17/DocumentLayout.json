@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp21\\LabWork33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|V:\\ispp21\\LabWork33\\task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|v:\\ispp21\\labwork33\\task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|V:\\ispp21\\LabWork33\\task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|V:\\ispp21\\LabWork33\\task3\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|solutionrelative:task3\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|V:\\ispp21\\LabWork33\\task3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5097A00-AC40-4E10-B9F0-2CB7C10F90B5}|Task3\\Task3.csproj|solutionrelative:task3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|V:\\ispp21\\LabWork33\\task1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|solutionrelative:task1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|V:\\ispp21\\LabWork33\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|V:\\ispp21\\LabWork33\\task1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A86DC7-E1A1-4A9D-99E4-0240EBCF2A05}|Task1\\Task1.csproj|solutionrelative:task1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|V:\\ispp21\\LabWork33\\task2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|solutionrelative:task2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|V:\\ispp21\\LabWork33\\task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660C09E3-0EA1-46DC-ABAF-F0A9EF6791F5}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Task1\\AssemblyInfo.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task1\\AssemblyInfo.cs",
+              "RelativeToolTip": "Task1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:17:57.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task3\\Category.cs",
+              "RelativeDocumentMoniker": "Task3\\Category.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task3\\Category.cs",
+              "RelativeToolTip": "Task3\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:56:01.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task3\\Game.cs",
+              "RelativeDocumentMoniker": "Task3\\Game.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task3\\Game.cs",
+              "RelativeToolTip": "Task3\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:55:01.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task3\\MainWindow.xaml",
+              "RelativeToolTip": "Task3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T08:54:20.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:54:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task2\\Game.cs",
+              "RelativeDocumentMoniker": "Task2\\Game.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task2\\Game.cs",
+              "RelativeToolTip": "Task2\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:50:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task2\\MainWindow.xaml",
+              "RelativeToolTip": "Task2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T08:48:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:48:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task1\\Game.cs",
+              "RelativeDocumentMoniker": "Task1\\Game.cs",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task1\\Game.cs",
+              "RelativeToolTip": "Task1\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:41:28.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "V:\\ispp21\\LabWork33\\Task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml",
+              "ToolTip": "V:\\ispp21\\LabWork33\\Task1\\MainWindow.xaml",
+              "RelativeToolTip": "Task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T07:41:10.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
